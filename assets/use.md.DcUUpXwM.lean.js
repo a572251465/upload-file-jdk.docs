@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as e}from"./chunks/framework.Db2ILLp9.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"use.md","filePath":"use.md"}'),t={name:"use.md"},l=e("",16),n=[l];function h(p,r,k,o,d,c){return a(),i("div",null,n)}const u=s(t,[["render",h]]);export{E as __pageData,u as default};

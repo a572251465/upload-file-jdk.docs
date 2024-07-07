@@ -1,0 +1,1 @@
+import{_ as d,c as t,o as e,a1 as o}from"./chunks/framework.Db2ILLp9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"quick-start.md","filePath":"quick-start.md"}'),c={name:"quick-start.md"},a=o("",10),s=[a];function i(l,n,h,p,r,k){return e(),t("div",null,s)}const g=d(c,[["render",i]]);export{m as __pageData,g as default};

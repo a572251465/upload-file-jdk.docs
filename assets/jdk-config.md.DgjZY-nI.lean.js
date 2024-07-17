@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as t}from"./chunks/framework.Db2ILLp9.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"jdk-config.md","filePath":"jdk-config.md"}'),n={name:"jdk-config.md"},l=t("",49),e=[l];function h(p,k,d,r,c,o){return a(),i("div",null,e)}const y=s(n,[["render",h]]);export{g as __pageData,y as default};
